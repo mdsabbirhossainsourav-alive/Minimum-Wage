@@ -22,7 +22,7 @@ Chef's income is 20 dollars per hour, which is strictly higher than the minimum 
 ## Sample 2:
 ### Input
 11
-## Output
+### Output
 NO
 ### Explanation:
 Chef's income is 11 dollars per hour, which is not higher than the minimum wage.
